@@ -1,0 +1,7 @@
+{
+  "name":"webtoapkvd-v1",
+  "version":"1.0.0",
+  "private":true,
+  "description":"WebToApkVD V1 Native Android WebView builder",
+  "scripts":{"serve":"npx serve .","validate":"node scripts/validate.js"}
+}
